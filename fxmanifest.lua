@@ -11,6 +11,7 @@ server_scripts {
     "@vrp/lib/utils.lua", -- Activate this only if you are using vRP.
     "config.lua",
     "server-side/server.lua"
+    -- Here add more server-side scripts.
 }
 
 client_script {
@@ -19,6 +20,7 @@ client_script {
     "client-side/utils.lua",
     "config.lua",
     "client-side/client.lua"
+    -- Here add more client-side scripts.
 }
 
 files {
