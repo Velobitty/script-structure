@@ -33,7 +33,7 @@ git clone https://github.com/Velobitty/script-structure.git
 ```
 
 ### Contributing
-> Contributions are welcome! If you would like to contribute to this project, please open an issue or submit a pull request.
+Contributions are welcome! If you would like to contribute to this project, please open an issue or submit a pull request.
 
 ### License
-> This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
