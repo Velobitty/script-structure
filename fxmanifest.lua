@@ -8,14 +8,14 @@ ui_page "web-side/index.html"
 shared_script 'config.lua'
 
 server_scripts {
-    "@vrp/lib/utils.lua",
+    "@vrp/lib/utils.lua", -- Activate this only if you are using vRP.
     "config.lua",
     "server-side/server.lua"
 }
 
 client_script {
-    "@vrp/client/Proxy.lua",
-    "@vrp/client/Tunnel.lua",
+    "@vrp/client/Proxy.lua", -- Activate this only if you are using vRP.
+    "@vrp/client/Tunnel.lua", -- Activate this only if you are using vRP.
     "client-side/utils.lua",
     "config.lua",
     "client-side/client.lua"
